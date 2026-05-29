@@ -39,10 +39,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
-
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=znenix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" height="180" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znenix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" height="180" alt="languages graph"/>
-</p>
